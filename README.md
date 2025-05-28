@@ -14,7 +14,7 @@
 
 <h1 align="left">ABOUT ME</h1>
 
-###
+######
 
 <p align="left">Hi, I'm Kamesh — a passionate cybersecurity enthusiast and educator. I create content that simplifies ethical hacking, penetration testing, and digital security for beginners and professionals alike.<br><br>🛡 I believe in ethical hacking as a force for good and I'm on a mission to make cybersecurity knowledge accessible and actionable.<br><br>🔧 What I Do<br><br>🎥 Share practical tutorials and demos on my YouTube channel<br><br>🧠 Explore topics like Linux, network security, bug bounty, OSINT, and more<br><br>💻 Build and contribute to open-source tools in the infosec space<br><br>📚 Continuously learning, testing, and sharing new techniques<br><br><br>🛠 Skills<br><br>Ethical Hacking & Penetration Testing<br><br>Network Security & Protocol Analysis<br><br>Vulnerability Assessment & Web App Security (OWASP Top 10)<br><br>Bug Bounty Hunting & OSINT<br><br>Programming: C, C++, Python, Swift<br><br>Web Development: HTML, CSS<br><br>Tools: Nmap, Wireshark, Metasploit, Burp Suite, Hydra<br><br><br>🚀 Tech Stack & Tools<br><br>C C++ Python Swift HTML CSS<br>Linux Bash Wireshark Burp Suite Nmap Metasploit Git VS Code<br><br><br>---<br><br>> 💬 Let's collaborate on open-source, or just geek out about hacking and security!<br><br><br><br>📫 Reach me: kameshsk6512@gmail.com<br><br>> 🧠 "Hacking isn't about breaking systems—it's about understanding them deeper than anyone else, and using that knowledge to build a safer digital world." – Kamesh</p>
 
